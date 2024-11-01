@@ -1,0 +1,8 @@
+#toplevel_page_unique-cursor div.wp-menu-image {
+	background: transparent url(../images/icon.png) no-repeat  scroll center 0;
+}
+
+#toplevel_page_unique-cursor:hover div.wp-menu-image,
+#toplevel_page_unique-cursor.current .wp-menu-image {
+	background: transparent url(../images/icon.png) no-repeat  scroll center -28px;
+}

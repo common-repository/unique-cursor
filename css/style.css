@@ -1,0 +1,20 @@
+.control-label {
+	width: 150px;
+	padding-right: 15px;
+	float: left;
+}
+.controls {
+	width: 75%;
+	float: left;
+}
+.form-actions {
+	clear: both;
+	padding: 20px 41px;
+	background: #e6e6e6;
+}
+.control-group {
+	float: left;
+	overflow: hidden;
+	margin-bottom: 25px;
+	width: 100%;
+}
